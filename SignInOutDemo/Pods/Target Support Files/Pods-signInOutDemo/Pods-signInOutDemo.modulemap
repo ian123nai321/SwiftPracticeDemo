@@ -1,0 +1,6 @@
+framework module Pods_signInOutDemo {
+  umbrella header "Pods-signInOutDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
