@@ -15,5 +15,4 @@
 ## SignInOut
 
 ![alt tag](http://i.imgur.com/dqSeFTh.gif)
-
 ![alt tag](http://i.imgur.com/zqPITKF.gif)
