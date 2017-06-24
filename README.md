@@ -7,9 +7,8 @@
 
 ## ChatRoom
 
-![alt tag](http://i.imgur.com/O7sKy8I.gifv)
+[Imgur](http://i.imgur.com/O7sKy8I.gifv)
 
- 
 ## SignInOut
 
 
