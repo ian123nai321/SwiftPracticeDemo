@@ -7,7 +7,7 @@
 
 ## ChatRoom
 
-![alt tag]()
+![alt tag](http://imgur.com/O7sKy8I.gif)
 
 ![alt tag](http://i.imgur.com/O7sKy8I.gif)
 
