@@ -7,7 +7,7 @@
 
 ## ChatRoom
 
-![alt tag](http://i.imgur.com/O7sKy8I.gif)
+<a href="http://imgur.com/O7sKy8I"><img src="http://i.imgur.com/O7sKy8I.gif" title="source: imgur.com" /></a>
 
  
 ## SignInOut
